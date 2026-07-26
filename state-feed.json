@@ -1,8 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "0a7f6d2c-3838-4a70-9c66-7b2d9d783409": 1784450046824,
-    "00c607bd-504b-44f5-818d-e4ad7d8dc2a8": 1784450046993,
     "substack:post:207941607": 1784709943927,
     "8b31e580-845b-11f1-850d-e78291a15e5d": 1784709944093,
     "ca96dcfd-41b1-4877-81f0-4d1902836d17": 1784796309680,
@@ -18,6 +16,9 @@
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1784709947861,
     "https://claude.com/blog/artifacts-in-claude-code": 1784882643810,
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1784967886789
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1784967886789,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1785055178099,
+    "https://www.anthropic.com/engineering/managed-agents": 1785055178699,
+    "https://claude.com/blog/claude-managed-agents-updates": 1785055179406
   }
 }
