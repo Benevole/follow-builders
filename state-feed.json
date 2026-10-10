@@ -10,10 +10,14 @@
     "substack:post:219146438": 1791552073712,
     "4d4e243f-5de7-4e16-98a5-f01201bf511e": 1791552073762,
     "substack:post:218243619": 1791552073811,
-    "flightcast:01M3SP9F8QKB4V4J9RPKX41XFM": 1791552073861
+    "flightcast:01M3SP9F8QKB4V4J9RPKX41XFM": 1791552073861,
+    "substack:post:219666029": 1791635749861,
+    "44fa0b1c-be0b-11f1-b00d-cb6a27141e9e": 1791635750112,
+    "substack:post:218414422": 1791635750182
   },
   "seenArticles": {
-    "https://claude.com/blog/cowork-is-now-claude": 1791027742066,
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1791466445629
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1791466445629,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1791635750455,
+    "https://www.anthropic.com/engineering/managed-agents": 1791635751086
   }
 }
