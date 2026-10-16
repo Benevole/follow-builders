@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-15T11:33:37.457Z",
+  "generatedAt": "2026-10-16T11:28:08.803Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Revolutionizing Cybersecurity and AI-Driven Science with OpenAI President Greg Brockman\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"How Hugging Face’s Investor Spots Winners\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
-    "Podcast: Transcript error for \"Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }
