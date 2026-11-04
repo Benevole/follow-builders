@@ -1,9 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "538a8146-d177-11f1-8079-5369dbb6e923": 1793192357528,
-    "01a17e24-16fc-7437-bdba-3b11fa5abbe6": 1793192357668,
-    "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192": 1793192357808,
     "060e3c46-d339-11f1-a994-87ae12352fb9": 1793279184634,
     "flightcast:01M5ZMA6CQA7GRSPWFZ1E7JB59": 1793279184800,
     "899611ab-5215-4e00-b177-4be18b8bdb5f": 1793279184928,
@@ -16,7 +13,8 @@
     "1b967280-ce7b-11f1-8a29-072c10b8d7bc": 1793450226268,
     "01a18ea6-94fa-7850-937b-c5c57b469b6a": 1793539732506,
     "4248d1df-1156-4e68-b67a-5f3cfd063aea": 1793635185147,
-    "youtube:bJBEFzlKPoQ": 1793715603706
+    "youtube:bJBEFzlKPoQ": 1793715603706,
+    "youtube:LL0YmIyBKSU": 1793802988858
   },
   "seenArticles": {}
 }
